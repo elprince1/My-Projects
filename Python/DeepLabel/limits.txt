@@ -1,4 +1,0 @@
-.jpg only
-no zoom
-only one type of data 
-.txt formate of data only
